@@ -1,0 +1,46 @@
+{
+  "cities": [
+    {
+      "id": "852c",
+      "cityName": "Sevan",
+      "country": "",
+      "image": "",
+      "emoji": "",
+      "notes": "sdf",
+      "date": "2025-03-05T01:15:10.097Z",
+      "countryCode": "AM",
+      "position": {
+        "lat": "40.58393655676433",
+        "lng": "44.97802734375"
+      }
+    },
+    {
+      "id": "a2e0",
+      "cityName": "Tsurib",
+      "country": "",
+      "image": "",
+      "emoji": "",
+      "notes": "sdf",
+      "date": "2025-03-05T12:47:59.669Z",
+      "countryCode": "RU",
+      "position": {
+        "lat": "42.09822241118974",
+        "lng": "46.82373046875"
+      }
+    },
+    {
+      "id": "f0ef",
+      "cityName": "Krasnodarskiy Kray",
+      "country": "",
+      "image": "",
+      "emoji": "",
+      "notes": "dsf",
+      "date": "2025-03-06T00:14:30.048Z",
+      "countryCode": "RU",
+      "position": {
+        "lat": "43.374628362160834",
+        "lng": "39.83642578125"
+      }
+    }
+  ]
+}
